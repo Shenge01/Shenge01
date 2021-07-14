@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...Him/He
 - ⚡ Fun fact: ...
 
+Hi there👋, I'm Nkazimulo Buthelezi(Nkazi) working as a Data Scientist at Lulalend and I have over a year working as a Data Scientist in the Financial Services industry. I have worked with various projects from developing Data Migration pipelines(ETL/ELT), developing RESTFul APIs, 
